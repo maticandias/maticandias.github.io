@@ -8,15 +8,6 @@
     <language>en-us</language>
     <lastBuildDate>Wed, 17 Jun 2020 19:30:08 +1000</lastBuildDate><atom:link href="https://maticandias.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Post 1</title>
-      <link>https://maticandias.github.io/docs/post_1/</link>
-      <pubDate>Mon, 08 Mar 2021 19:30:08 +1000</pubDate>
-      
-      <guid>https://maticandias.github.io/docs/post_1/</guid>
-      <description>Contenido de mi primer post con hugo.</description>
-    </item>
-    
-    <item>
       <title>Primer Post</title>
       <link>https://maticandias.github.io/docs/mipost/</link>
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
