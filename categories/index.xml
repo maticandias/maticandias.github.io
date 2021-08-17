@@ -1,10 +1,38 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on Matías Candia - Taller Productos 2021</title>
-    <link>https://maticandias.github.io/categories/</link>
-    <description>Recent content in Categories on Matías Candia - Taller Productos 2021</description>
+    <title>Categories on Matías Candia</title>
+    <link>https://shenoybr.github.io/hugo-goa-demo/categories/</link>
+    <description>Recent content in Categories on Matías Candia</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://maticandias.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-US</language>
+    <lastBuildDate>Tue, 17 Aug 2021 00:38:13 -0400</lastBuildDate><atom:link href="https://shenoybr.github.io/hugo-goa-demo/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tareas</title>
+      <link>https://shenoybr.github.io/hugo-goa-demo/categories/tareas/</link>
+      <pubDate>Tue, 17 Aug 2021 00:38:13 -0400</pubDate>
+      
+      <guid>https://shenoybr.github.io/hugo-goa-demo/categories/tareas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://shenoybr.github.io/hugo-goa-demo/categories/about/</link>
+      <pubDate>Sun, 02 Oct 2016 22:55:05 -0400</pubDate>
+      
+      <guid>https://shenoybr.github.io/hugo-goa-demo/categories/about/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>articles</title>
+      <link>https://shenoybr.github.io/hugo-goa-demo/categories/articles/</link>
+      <pubDate>Sun, 02 Oct 2016 22:55:05 -0400</pubDate>
+      
+      <guid>https://shenoybr.github.io/hugo-goa-demo/categories/articles/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

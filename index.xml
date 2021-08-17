@@ -1,91 +1,39 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Matías Candia on Matías Candia - Taller Productos 2021</title>
-    <link>https://maticandias.github.io/</link>
-    <description>Recent content in Matías Candia on Matías Candia - Taller Productos 2021</description>
+    <title>Matías Candia</title>
+    <link>https://shenoybr.github.io/hugo-goa-demo/</link>
+    <description>Recent content on Matías Candia</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Wed, 17 Jun 2020 19:30:08 +1000</lastBuildDate><atom:link href="https://maticandias.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-US</language>
+    <lastBuildDate>Tue, 17 Aug 2021 00:38:13 -0400</lastBuildDate><atom:link href="https://shenoybr.github.io/hugo-goa-demo/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>1.2 Silla Parásito</title>
-      <link>https://maticandias.github.io/docs/sillaparasito/</link>
-      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      <title>Conversión de CA a CC</title>
+      <link>https://shenoybr.github.io/hugo-goa-demo/blog/third/</link>
+      <pubDate>Tue, 17 Aug 2021 00:38:13 -0400</pubDate>
       
-      <guid>https://maticandias.github.io/docs/sillaparasito/</guid>
-      <description>Unidad sillas paramétricas.</description>
+      <guid>https://shenoybr.github.io/hugo-goa-demo/blog/third/</guid>
+      <description>Para responder a la pregunta principal de esta tarea (Como se transforma de CC a CA?) primero debemos diferenciar estos dos conceptos para así poder entenderlo en plenitud. La Corriente Continua (CC), tiene la caracteristica de viajar en una linea recta, directamente hacia una dirección y a un voltaje máximo; mientras que la Corriente Alterna (CA), posee una onda sinoidal que hace subir y bajar constantemente su corriente.
+Para convertir de CC a CA necesitamos un Inversor Trifásico, que generalmente, corta el voltaje y luego lo filtra para que se asemeje a una onda sinusoidal Y al contrario, si queremos convertir de CA a CC, necesitamos un rectificador (comúnmente viene incluido con el inversor) que convierta las tensiones anteriormente mencionadas en un proceso inverso.</description>
     </item>
     
     <item>
-      <title>1.0 Entrega 1</title>
-      <link>https://maticandias.github.io/docs/entrega_1/</link>
-      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      <title>Acerca de</title>
+      <link>https://shenoybr.github.io/hugo-goa-demo/about/</link>
+      <pubDate>Sun, 02 Oct 2016 22:55:05 -0400</pubDate>
       
-      <guid>https://maticandias.github.io/docs/entrega_1/</guid>
-      <description>Silla Bow - ZHA</description>
+      <guid>https://shenoybr.github.io/hugo-goa-demo/about/</guid>
+      <description>Erlich administers the Hacker Hostel, a tech incubator where Richard, Big Head, Dinesh, and Gilfoyle live and work in exchange for 10 percent of their potential businesses. Erlich clings to his glory days, when he sold aviation start-up Aviato, a move that, at least in his mind, qualifies him to be a svengali lording over other tech nerds. He still drives a car emblazoned with multiple Aviato logos and smokes copious amounts of weed.</description>
     </item>
     
     <item>
-      <title>2.1 Fotogrametría</title>
-      <link>https://maticandias.github.io/docs/2.1-fotogrametr%C3%ADa/</link>
-      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      <title>CodeRag</title>
+      <link>https://shenoybr.github.io/hugo-goa-demo/coderag/</link>
+      <pubDate>Sun, 02 Oct 2016 22:55:05 -0400</pubDate>
       
-      <guid>https://maticandias.github.io/docs/2.1-fotogrametr%C3%ADa/</guid>
-      <description>RecapPhoto.</description>
-    </item>
-    
-    <item>
-      <title>2.2 Molde Fusion360</title>
-      <link>https://maticandias.github.io/docs/2.2-molde-fusion360/</link>
-      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
-      
-      <guid>https://maticandias.github.io/docs/2.2-molde-fusion360/</guid>
-      <description>Práctica de moldes para comida en Fusion360.</description>
-    </item>
-    
-    <item>
-      <title>2.3 Fotografía &#43; Origami</title>
-      <link>https://maticandias.github.io/docs/2.3-fotograf%C3%ADa-&#43;-origami/</link>
-      <pubDate>Mon, 03 May 2021 19:30:08 +1000</pubDate>
-      
-      <guid>https://maticandias.github.io/docs/2.3-fotograf%C3%ADa-&#43;-origami/</guid>
-      <description>Primera entrega de origami creado en rhin</description>
-    </item>
-    
-    <item>
-      <title>2.4 Entrega Final - Bits&amp;Bites</title>
-      <link>https://maticandias.github.io/docs/2.4-entrega-final-bitsbites/</link>
-      <pubDate>Mon, 03 May 2021 19:30:08 +1000</pubDate>
-      
-      <guid>https://maticandias.github.io/docs/2.4-entrega-final-bitsbites/</guid>
-      <description>Segunda unidad (PDF y Fotogrametría)</description>
-    </item>
-    
-    <item>
-      <title>Ejemplos Markdown</title>
-      <link>https://maticandias.github.io/docs/markdown/</link>
-      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
-      
-      <guid>https://maticandias.github.io/docs/markdown/</guid>
-      <description>Ejemplos de uso de lenguaje Markdown para redactar las publicaciones.</description>
-    </item>
-    
-    <item>
-      <title>Ejemplo Shortcodes</title>
-      <link>https://maticandias.github.io/docs/ejemplo/</link>
-      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
-      
-      <guid>https://maticandias.github.io/docs/ejemplo/</guid>
-      <description>Uso de los Shortcodes para agregar contenido en el sitio de documentación.</description>
-    </item>
-    
-    <item>
-      <title>0.0 Primer Post</title>
-      <link>https://maticandias.github.io/docs/mipost/</link>
-      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
-      
-      <guid>https://maticandias.github.io/docs/mipost/</guid>
-      <description>Mi primer post en Hugo.</description>
+      <guid>https://shenoybr.github.io/hugo-goa-demo/coderag/</guid>
+      <description>Notes: This article originally appeared in CodeRag.
+Code/Rag has always been more than just another online tech blog. We strive to be part of the tech community—serving an essential, fundamental look at what’s going on in the valley. It’s why our tagline is “Know Your Code.” We think a tech news publication should know the basics. Be the source. Get down to brass tacks. We can do that because we’re part of the very ecosystem we’re reporting on.</description>
     </item>
     
   </channel>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tareas on Matías Candia</title>
+    <link>https://shenoybr.github.io/hugo-goa-demo/categories/tareas/</link>
+    <description>Recent content in Tareas on Matías Candia</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 17 Aug 2021 00:38:13 -0400</lastBuildDate><atom:link href="https://shenoybr.github.io/hugo-goa-demo/categories/tareas/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Conversión de CA a CC</title>
+      <link>https://shenoybr.github.io/hugo-goa-demo/blog/third/</link>
+      <pubDate>Tue, 17 Aug 2021 00:38:13 -0400</pubDate>
+      
+      <guid>https://shenoybr.github.io/hugo-goa-demo/blog/third/</guid>
+      <description>Para responder a la pregunta principal de esta tarea (Como se transforma de CC a CA?) primero debemos diferenciar estos dos conceptos para así poder entenderlo en plenitud. La Corriente Continua (CC), tiene la caracteristica de viajar en una linea recta, directamente hacia una dirección y a un voltaje máximo; mientras que la Corriente Alterna (CA), posee una onda sinoidal que hace subir y bajar constantemente su corriente.
+Para convertir de CC a CA necesitamos un Inversor Trifásico, que generalmente, corta el voltaje y luego lo filtra para que se asemeje a una onda sinusoidal Y al contrario, si queremos convertir de CA a CC, necesitamos un rectificador (comúnmente viene incluido con el inversor) que convierta las tensiones anteriormente mencionadas en un proceso inverso.</description>
+    </item>
+    
+  </channel>
+</rss>
